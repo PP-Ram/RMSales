@@ -1,0 +1,16 @@
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.frmMasterProducts.resources
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.frmSales.resources
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.Properties.Resources.resources
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.RMSaleMain.resources
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.csproj.GenerateResource.Cache
+C:\RMSales\RMSales\RMSales\bin\Debug\RMSales.exe.config
+C:\RMSales\RMSales\RMSales\bin\Debug\RMSales.exe
+C:\RMSales\RMSales\RMSales\bin\Debug\RMSales.pdb
+C:\RMSales\RMSales\RMSales\bin\Debug\System.Data.SQLite.dll
+C:\RMSales\RMSales\RMSales\bin\Debug\System.Data.SQLite.EF6.dll
+C:\RMSales\RMSales\RMSales\bin\Debug\System.Data.SQLite.Linq.dll
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.csprojResolveAssemblyReference.cache
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.exe
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.pdb
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.frmPurchaseOrder.resources
+C:\RMSales\RMSales\RMSales\obj\Debug\RMSales.frmPOManagement.resources
